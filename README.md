@@ -1,0 +1,1 @@
+![Book Inventory Screenshot](screenshot/Book_Inventory.png)

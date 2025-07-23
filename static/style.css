@@ -1,0 +1,61 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background: wheat;
+    margin: 0;
+    padding: 20px;
+}
+
+.container {
+    background: lightblue;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px black;
+    max-width: auto;
+    margin: auto;
+}
+
+h1 {
+    text-align: center;
+}
+
+form {
+    margin-bottom: 30px;
+}
+
+input, button {
+    padding: 10px;
+    margin: 5px;
+    border: 1px solid #aaa;
+    border-radius: 4px;
+}
+
+button {
+    background: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background: #45a049;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+
+table, th, td {
+    border: 1px solid black;
+    padding: 10px;
+}
+
+a {
+    color: red;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
